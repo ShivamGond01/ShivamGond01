@@ -1,28 +1,211 @@
-<h1 align="center">Hi 👋, I'm Shivam Gond</h1>
-<h3 align="center">MCA Graduate passionate about building web applications using .NET technologies</h3>
+# 👋 Hi, I'm Shivam Gond
 
-- 🔭 I’m currently working on **ASP.NET Core MVC Web Applications**
+### 💻 MCA Graduate | .NET Developer | Software Developer
 
-- 🌱 I’m currently learning **ASP.NET Core Web API, Entity Framework Core, JWT Authentication and Data Analytics**
+I'm an **MCA graduate** passionate about building practical and user-friendly web applications using **.NET technologies**.
 
-- 👯 I’m looking to collaborate on **.NET / ASP.NET Core projects**
+I enjoy learning new technologies, solving programming problems, and turning ideas into real-world applications.
 
-- 🤝 I’m looking for help with **ASP.NET Core Web API and SQL Server**
+---
 
-- 💬 Ask me about **C#, ASP.NET Core MVC, SQL Server, ADO.NET and Web Development**
+## 🚀 About Me
 
-- 📫 How to reach me **sgond0693@gmail.com**
+* 🎓 MCA Graduate — Gujarat Technological University
+* 💻 Interested in **Full Stack .NET Development**
+* 🔭 Currently working with **ASP.NET Core MVC**
+* 🌱 Currently learning **ASP.NET Core Web API, Entity Framework Core, JWT Authentication & Data Analytics**
+* 👯 Looking to collaborate on **.NET / ASP.NET Core projects**
+* 💬 Ask me about **C#, ASP.NET Core MVC, SQL Server, ADO.NET & Web Development**
+* ⚡ Fun fact: I enjoy turning ideas into practical web applications.
+* 📫 Email: **[sgond0693@gmail.com](mailto:sgond0693@gmail.com)**
 
-- ⚡ Fun fact **I enjoy turning ideas into practical web applications.**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Tech Stack
+
+### 💻 Programming & Backend
+
 <p align="left">
-<a href="https://linkedin.com/in/shivam-gond-05502b316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-gond-05502b316" height="30" width="40" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" />
+  </a>
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt=".NET" />
+  </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet">
+    <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="ASP.NET Core" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+### 🌐 Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamgond01&show_icons=true&locale=en&layout=compact" alt="shivamgond01" /></p>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" />
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamgond01&show_icons=true&locale=en" alt="shivamgond01" /></p>
+### 🗄️ Database & Tools
+
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/sql-server">
+    <img src="https://skillicons.dev/icons?i=mssql" height="45" alt="SQL Server" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="Visual Studio" />
+  </a>
+</p>
+
+### 📚 Currently Learning
+
+`ASP.NET Core Web API` • `Entity Framework Core` • `JWT Authentication` • `REST APIs` • `Data Analytics`
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamGond01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamGond01&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShivamGond01&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamGond01&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShivamGond01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="95%" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+> 🚧 More projects are coming soon as I continue building my portfolio.
+
+### 💼 Portfolio Website
+
+**Personal developer portfolio built using:**
+
+`HTML5` `CSS3` `JavaScript` `Bootstrap`
+
+🔗 **Live Demo:** Coming Soon
+📂 **Repository:** Coming Soon
+
+---
+
+### 🎓 LMS-based Online Examination System
+
+A web-based learning and examination platform designed for managing courses, online examinations, quizzes, practical assessments, students, trainers and results.
+
+**Technologies:**
+
+`C#` `ASP.NET Core MVC` `ADO.NET` `SQL Server` `Bootstrap` `JavaScript`
+
+**Features include:**
+
+* 👨‍💼 Admin management
+* 👨‍🏫 Trainer management
+* 👨‍🎓 Student management
+* 📚 Course management
+* 📝 Online examinations
+* ❓ MCQ quizzes
+* 🧪 Practical examinations
+* 📊 Results and reports
+
+> 🔒 Repository: Private / Currently being organized
+
+---
+
+# 💡 What I'm Working Toward
+
+```text
+HTML / CSS / JavaScript
+          ↓
+       C# / OOP
+          ↓
+   ASP.NET Core MVC
+          ↓
+    SQL Server + ADO.NET
+          ↓
+    ASP.NET Core Web API
+          ↓
+ JWT Authentication + REST APIs
+          ↓
+     Full Stack .NET
+```
+
+---
+
+# 📊 GitHub Profile Summary
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/ShivamGond01?style=for-the-badge&logo=github&label=Followers" />
+
+<img src="https://img.shields.io/github/stars/ShivamGond01?style=for-the-badge&logo=github&label=Stars" />
+
+<img src="https://komarev.com/ghpvc/?username=ShivamGond01&style=for-the-badge&color=blue" />
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/shivam-gond-05502b316" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Gond-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:sgond0693@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://github.com/ShivamGond01" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-ShivamGond01-black?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💻 "Building, Learning, and Growing One Project at a Time."
+
+⭐ **Thanks for visiting my profile!**
+
+</p>
